@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-check-circle-2">
+  <style>
+    circle {
+      stroke: #6366f1;
+    }
+    path {
+      stroke: #6366f1;
+    }
+    @media (prefers-color-scheme: dark) {
+      circle {
+        stroke: #818cf8;
+      }
+      path {
+        stroke: #818cf8;
+      }
+    }
+  </style>
+  <circle cx="12" cy="12" r="10"/>
+  <path d="m9 12 2 2 4-4"/>
+</svg>
